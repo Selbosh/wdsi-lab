@@ -7,3 +7,4 @@ The following cool people have completed this exercise! :metal:
 Name                | Affiliation        | Link to `hello` repo
 --------------------|--------------------|----------------------
 David S             | Statistics         | https://github.com/Selbosh/hello
+gah | jhd | ed
