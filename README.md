@@ -9,3 +9,4 @@ Name                | Affiliation        | Link to `hello` repo
 David S             | Statistics         | https://github.com/Selbosh/hello
 Cynthia S           | Psychology         | https://github.com/csqsiew/hello
 Aranya K            | Statistics         | https://github.com/a-koshy/hello-world
+Mateusz E           | Statistics         | https://github.com/MateuszEggink/Hello
